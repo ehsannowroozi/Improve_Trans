@@ -39,8 +39,7 @@ Continuously fine-tune your attack strategy based on the results of your evaluat
 
 # If you utilize this code, kindly cite the following papers in your *.bib file:
  1)  For the paper titled "Demystifying the Transferability of Adversarial Attacks in Computer Networks" published in IEEE Transactions on Network and Service Management in 2022:
-    
-    @ARTICLE{9747933,
+  @ARTICLE{9747933,
   author={Nowroozi, Ehsan and Mekdad, Yassine and Berenjestanaki, Mohammad Hajian and Conti, Mauro and Fergougui, Abdeslam El},
   journal={IEEE Transactions on Network and Service Management}, 
   title={Demystifying the Transferability of Adversarial Attacks in Computer Networks}, 
@@ -51,8 +50,7 @@ Continuously fine-tune your attack strategy based on the results of your evaluat
   doi={10.1109/TNSM.2022.3164354}
 }
 
-3) For the paper titled "On the Transferability of Adversarial Examples against CNN-based Image Forensics" presented at the 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019):
-   
+2) For the paper titled "On the Transferability of Adversarial Examples against CNN-based Image Forensics" presented at the 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019):
    @INPROCEEDINGS{8683772,
   author={Barni, M. and Kallas, K. and Nowroozi, E. and Tondi, B.},
   booktitle={ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
