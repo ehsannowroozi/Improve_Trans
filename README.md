@@ -37,6 +37,9 @@ Use a diverse set of target models to evaluate the transferability of your adver
 ## Fine-Tune the Strategy: 
 Continuously fine-tune your attack strategy based on the results of your evaluations. Iterate on the attack parameters and modifications to improve transferability while still maintaining plausible attack effectiveness.
 
+## How to Run or Attack Methodology: 
+In this library, various types of attacks are housed in the 'attack' folder, with 'adversarial.py' serving as the main code for enhancing attack strength. By default, we set the PSNR greater than 40. This is crucial because, as the attack penetrates deeper into the decision region, there is a risk of complete sample degradation, making it essential to control the PSNR.
+
 # If you utilize this code, kindly cite the following papers in your *.bib file:
 
  For the paper titled "Demystifying the Transferability of Adversarial Attacks in Computer Networks" published in IEEE Transactions on Network and Service Management in 2022:
